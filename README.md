@@ -2,7 +2,7 @@
 
 Simple AngularJS form validation
 
-## THINGS USED FOR THIS PROJECT
+## THIS PROJECT USE THE FOLLOWING:
 
 - AngularJS form validation
 - Validation rules
