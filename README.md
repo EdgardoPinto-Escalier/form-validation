@@ -1,2 +1,7 @@
-# form-validation
+# ANGULARJS FORM VALIDATION
+
 Simple AngularJS form validation
+
+## THINGS USED FOR THIS PROJECT
+
+
